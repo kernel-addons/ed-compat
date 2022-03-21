@@ -1,0 +1,7 @@
+{
+    "name": "EDCompat",
+    "id": "strencher.ed-compat",
+    "description": "Compatibility layer for EnhancedDiscord plugins.",
+    "version": "1.0.0",
+    "dependencies": []
+}
